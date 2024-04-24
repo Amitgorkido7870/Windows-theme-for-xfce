@@ -24,7 +24,7 @@
   ---
    # preview
    
-   ![image] (
+   ![image] (https://github.com/Amitgorkido7870/Windows-theme-for-xfce/assets/163947988/3140006e-bff8-450e-93b8-f262f738e637)
    
    # information
    
